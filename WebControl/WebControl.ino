@@ -62,8 +62,6 @@ void setup() {
 
 void loop()
 {
-//  delay(1000);
-//  httpRequest();
   
   // if there are incoming bytes available 
   // from the server, read them and print them:
